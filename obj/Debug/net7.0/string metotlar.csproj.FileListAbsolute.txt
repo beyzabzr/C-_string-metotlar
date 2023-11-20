@@ -1,0 +1,14 @@
+C:\Users\beyza\Desktop\C#\string metotlar\bin\Debug\net7.0\string metotlar.exe
+C:\Users\beyza\Desktop\C#\string metotlar\bin\Debug\net7.0\string metotlar.deps.json
+C:\Users\beyza\Desktop\C#\string metotlar\bin\Debug\net7.0\string metotlar.runtimeconfig.json
+C:\Users\beyza\Desktop\C#\string metotlar\bin\Debug\net7.0\string metotlar.dll
+C:\Users\beyza\Desktop\C#\string metotlar\bin\Debug\net7.0\string metotlar.pdb
+C:\Users\beyza\Desktop\C#\string metotlar\obj\Debug\net7.0\string metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beyza\Desktop\C#\string metotlar\obj\Debug\net7.0\string metotlar.AssemblyInfoInputs.cache
+C:\Users\beyza\Desktop\C#\string metotlar\obj\Debug\net7.0\string metotlar.AssemblyInfo.cs
+C:\Users\beyza\Desktop\C#\string metotlar\obj\Debug\net7.0\string metotlar.csproj.CoreCompileInputs.cache
+C:\Users\beyza\Desktop\C#\string metotlar\obj\Debug\net7.0\string metotlar.dll
+C:\Users\beyza\Desktop\C#\string metotlar\obj\Debug\net7.0\refint\string metotlar.dll
+C:\Users\beyza\Desktop\C#\string metotlar\obj\Debug\net7.0\string metotlar.pdb
+C:\Users\beyza\Desktop\C#\string metotlar\obj\Debug\net7.0\string metotlar.genruntimeconfig.cache
+C:\Users\beyza\Desktop\C#\string metotlar\obj\Debug\net7.0\ref\string metotlar.dll
